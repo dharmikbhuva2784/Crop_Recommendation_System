@@ -7,6 +7,5 @@ flask
 click
 gunicorn
 itsdangerous
-jinja2
 markupsafe
 werkzeug
